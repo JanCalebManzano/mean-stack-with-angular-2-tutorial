@@ -1,0 +1,31 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanCalebManzano/mean-stack-with-angular-2-tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Jan Caleb Manzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanCalebManzano/mean-stack-with-angular-2-tutorial/issues"
+  },
+  "homepage": "https://github.com/JanCalebManzano/mean-stack-with-angular-2-tutorial#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12"
+  }
+}
